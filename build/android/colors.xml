@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Fri, 11 Nov 2022 23:07:06 GMT
+-->
+<resources>
+  <color name="color_base_colors_orange">#ffff8e05</color>
+  <color name="color_base_colors_white">#ffffffff</color>
+  <color name="color_base_colors_black">#ff1e212b</color>
+  <color name="color_base_colors_grey">#ffccd5e1</color>
+  <color name="color_base_colors_red">#fff5483f</color>
+  <color name="color_base_colors_accent">#ff577cfe</color>
+  <color name="color_base_colors_green">#ff58cd52</color>
+  <color name="color_border_border_accent">#ff6650ef</color>
+  <color name="color_border_border_dashed">#ff1e212b</color>
+  <color name="color_border_border_accent_with_opacity">#ff6650ef</color>
+  <color name="color_border_border_accent_without_radii">#ff6650ef</color>
+  
+</resources>
