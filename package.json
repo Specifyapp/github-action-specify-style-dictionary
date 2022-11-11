@@ -1,5 +1,8 @@
 {
   "scripts": {
     "build": "style-dictionary build --config config.json;"
+  },
+  "dependencies": {
+    "style-dictionary": "^3.7.1"
   }
 }
