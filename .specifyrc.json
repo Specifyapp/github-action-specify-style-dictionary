@@ -10,7 +10,8 @@
         "types": [
           "color",
           "font",
-          "vector"
+          "vector",
+          "measurement"
         ]
       },
       "parsers": [
