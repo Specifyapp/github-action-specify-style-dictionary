@@ -10,6 +10,7 @@
         "types": [
           "color",
           "font",
+          "border",
           "vector",
           "measurement"
         ]
