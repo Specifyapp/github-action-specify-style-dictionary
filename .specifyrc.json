@@ -9,7 +9,6 @@
       "filter": {
         "types": [
           "color",
-          "textStyle",
           "font",
           "vector",
           "measurement"
