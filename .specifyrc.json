@@ -1,7 +1,7 @@
 {
-  "repository": "@acme-inc/all-design-data",
+  "repository": "@specifyapp/Seeds",
   "head": "style-dictionary",
-  "base": "main",
+  "base": "style-dictionary",
   "rules": [
     {
       "name": "Design Tokens",
