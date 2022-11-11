@@ -1,7 +1,6 @@
 name: Generate Design Tokens With Style Dictionary
 
 on:
-  workflow_dispatch:
   pull_request:
     branches:
       - specify
