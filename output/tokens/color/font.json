@@ -1,0 +1,10 @@
+{
+  "color": {
+    "font": {
+      "title": { "value": "#1e212b" },
+      "bodyWithOpacity": { "value": "#1e212b" },
+      "code": { "value": "#ff8e05" },
+      "body": { "value": "#1e212b" }
+    }
+  }
+}
