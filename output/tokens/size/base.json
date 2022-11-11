@@ -1,0 +1,16 @@
+{
+  "size": {
+    "base": {
+      "baseSpace09": { "value": "96px" },
+      "baseSpace04": { "value": "16px" },
+      "baseSpace08": { "value": "80px" },
+      "baseSpace10": { "value": "112px" },
+      "baseSpace06": { "value": "48px" },
+      "baseSpace05": { "value": "32px" },
+      "baseSpace03": { "value": "12px" },
+      "baseSpace07": { "value": "64px" },
+      "baseSpace02": { "value": "8px" },
+      "baseSpace01": { "value": "4px" }
+    }
+  }
+}
