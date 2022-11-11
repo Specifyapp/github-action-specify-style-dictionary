@@ -1,0 +1,9 @@
+{
+  "size": {
+    "radius": {
+      "borderAccent": { "value": "16px" },
+      "borderDashed": { "value": "16px" },
+      "borderAccentWithOpacity": { "value": "16px" }
+    }
+  }
+}
