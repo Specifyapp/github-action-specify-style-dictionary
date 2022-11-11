@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "build": "style-dictionary build --config config.json;"
+    "build": "style-dictionary build --config sd-config.json;"
   }
 }
