@@ -3,12 +3,13 @@ name: Generate Design Tokens With Style Dictionary
 on:
   pull_request:
     branches:
-      - specify
-    paths:
-      - 'output/**'
+      - main
+    types:
+      - labeled
 
 jobs:
   generate_tokens:
+    if: ${{ github.event.label.name == 'Design tokens' }}
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
