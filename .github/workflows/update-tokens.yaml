@@ -1,4 +1,4 @@
-name: Generate Tokens On Input
+name: Generate Design Tokens With Style Dictionary
 
 on:
   workflow_dispatch:
