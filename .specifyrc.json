@@ -1,7 +1,7 @@
 {
   "repository": "@specifyapp/Seeds",
-  "head": "style-dictionary",
-  "base": "style-dictionary",
+  "head": "specify",
+  "base": "main",
   "rules": [
     {
       "name": "Design Tokens",

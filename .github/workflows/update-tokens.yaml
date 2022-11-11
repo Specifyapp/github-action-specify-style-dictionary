@@ -1,7 +1,7 @@
 name: Generate Tokens On Inputon:
   pull_request:
     branches:
-      - style-dictionary
+      - specify
     paths:
       - 'output/**'
 
@@ -19,4 +19,4 @@ jobs:
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Update design tokens
-        branch: style-dictionary
+        branch: specify
