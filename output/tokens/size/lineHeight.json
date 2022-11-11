@@ -1,0 +1,11 @@
+{
+  "size": {
+    "lineHeight": {
+      "title": { "value": "40px" },
+      "bodyWithOpacity": { "value": "20px" },
+      "list": { "value": "20px" },
+      "code": { "value": "20px" },
+      "body": { "value": "20px" }
+    }
+  }
+}
