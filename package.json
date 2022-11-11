@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "build": "style-dictionary build --config config.json;"
+  }
+}
