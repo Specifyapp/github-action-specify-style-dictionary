@@ -1,4 +1,5 @@
-name: Generate Tokens On Inputon:
+name: Generate Tokens On Input
+on:
   pull_request:
     branches:
       - specify
