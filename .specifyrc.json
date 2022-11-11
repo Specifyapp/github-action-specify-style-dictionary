@@ -1,0 +1,85 @@
+{
+  "repository": "@acme-inc/all-design-data",
+  "head": "style-dictionary",
+  "base": "main",
+  "rules": [
+    {
+      "name": "Design Tokens",
+      "path": "./output/tokens",
+      "filter": {
+        "types": [
+          "color",
+          "font",
+          "vector"
+        ]
+      },
+      "parsers": [
+        {
+          "name": "kebabcasify"
+        },
+        {
+          "name": "to-style-dictionary",
+          "options": {
+            "formatTokens": {
+              "fontFormat": [
+                "woff",
+                "woff2"
+              ],
+              "colorFormat": {
+                "format": "hex"
+              }
+            },
+            "assetsBaseDirectory": {
+              "fonts": "../../assets/fonts",
+              "icons": "../../assets/vectors"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Assets / Vectors",
+      "path": "./output/assets/vectors",
+      "filter": {
+        "types": [
+          "vector"
+        ]
+      },
+      "parsers": [
+        {
+          "name": "kebabcasify"
+        },
+        {
+          "name": "svgo",
+          "options": {
+            "svgo": {
+              "js2svg": {
+                "pretty": true
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Assets / Fonts",
+      "path": "./output/assets/fonts",
+      "filter": {
+        "types": [
+          "font"
+        ]
+      },
+      "parsers": [
+        {
+          "name": "convert-font",
+          "options": {
+            "formats": [
+              "woff",
+              "woff2"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
