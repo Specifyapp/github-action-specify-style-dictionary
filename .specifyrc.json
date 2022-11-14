@@ -1,5 +1,5 @@
 {
-  "repository": "@specifyapp/Seeds",
+  "repository": "@your-organization/your-specify-repository",
   "head": "specify",
   "base": "main",
   "rules": [
