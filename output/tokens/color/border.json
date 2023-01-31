@@ -1,0 +1,10 @@
+{
+  "color": {
+    "border": {
+      "borderAccent": { "value": "#6650ef" },
+      "borderDashed": { "value": "#1e212b" },
+      "borderAccentWithOpacity": { "value": "#6650ef" },
+      "borderAccentWithoutRadii": { "value": "#6650ef" }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "color": {
+    "base": {
+      "colorsPureBlack": { "value": "#000000" },
+      "colorsAlmostBlack": { "value": "#1c1c1c" },
+      "colorsGreen": { "value": "#58cd52" },
+      "colorsBlack": { "value": "#1e212b" },
+      "colorsWhite": { "value": "#ffffff" },
+      "colorsRed": { "value": "#f5483f" },
+      "colorsOrange": { "value": "#ff8e05" },
+      "colorsAccent": { "value": "#7885b7" },
+      "colorsGrey": { "value": "#ccd5e1" }
+    }
+  }
+}

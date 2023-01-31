@@ -1,0 +1,13 @@
+{
+  "asset": {
+    "icon": {
+      "alertTriangle": { "value": "../../assets/vectors/alert-triangle.pdf" },
+      "alignCenter": { "value": "../../assets/vectors/align-center.pdf" },
+      "userMask": { "value": "../../assets/vectors/user-mask.svg" },
+      "airplay": { "value": "../../assets/vectors/airplay.svg" },
+      "activity": { "value": "../../assets/vectors/activity.svg" },
+      "alertOctagon": { "value": "../../assets/vectors/alert-octagon.svg" },
+      "alertCircle": { "value": "../../assets/vectors/alert-circle.svg" }
+    }
+  }
+}
